@@ -77,3 +77,10 @@ ul li.active a {
   background-color: #fff;
   color: #000;
 }
+.text {
+  position: absolute;
+  top: 62%;
+  left: 75%;
+  transform: translate(-50%);
+  color: rgb(255, 100, 100);
+}
